@@ -1,0 +1,12 @@
+{
+    "name": "ibu/petshop",
+    "description": "pet shop for us :D",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "filipljoljic",
+            "email": "filip.ljoljic@stu.ibu.edu.ba"
+        }
+    ],
+    "require": {}
+}
