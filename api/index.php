@@ -7,7 +7,7 @@ require_once dirname(__FILE__)."/dao/BaseDao.class.php";
 
 $filip = new BaseDao();
 
-echo "API";
+echo "Hello from API";
 
 
 
